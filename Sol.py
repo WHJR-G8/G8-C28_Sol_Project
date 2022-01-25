@@ -5,4 +5,4 @@ sum = 0
 for cost in dict1.values():
     sum += cost
     
-print("The total cost for preparing a Sandwhich is : Rs.",sum)
+print("The total cost for preparing a Sandwich is : Rs.",sum)
